@@ -25,7 +25,7 @@ function navbar() {
                 <div class="left">
                     <a href="/index.html"
                         ><img
-                            src="/components/logo/snapdeal-logo.png"
+                            src="./components/logo/snapdeal-logo.png"
                             alt="Snapdeal logo"
                     /></a>
                 </div>
@@ -80,7 +80,7 @@ function footer() {
             <div class="foot">
                 <div class="informa">
                     <div class="secure-payments">
-                        <img src="/components/logo/secure-payment.png" alt="" />
+                        <img src="./components/logo/secure-payment.png" alt="" />
                         <p>100% secure payments</p>
                         <p>
                             Moving your card details to a much more secured
@@ -88,12 +88,12 @@ function footer() {
                         </p>
                     </div>
                     <div class="trustpay">
-                        <img src="/components/logo/insurance.png" alt="" />
+                        <img src="./components/logo/insurance.png" alt="" />
                         <p>Trustpay</p>
                         <p>100% Payment Protection. Easy Return Policy</p>
                     </div>
                     <div class="help-center">
-                        <img src="/components/logo/help-desk.png" alt="" />
+                        <img src="./components/logo/help-desk.png" alt="" />
                         <p>help center</p>
                         <p>
                             Got a question? Look no further. Browse our FAQs or
@@ -101,7 +101,7 @@ function footer() {
                         </p>
                     </div>
                     <div class="shop-on-go">
-                        <img src="/components/logo/mobile-phone.png" alt="" />
+                        <img src="./components/logo/mobile-phone.png" alt="" />
                         <p>shop on the go</p>
                         <p>
                             Download the app and get exciting app only offers at
@@ -167,36 +167,36 @@ function footer() {
                     <ul>
                         <li>
                             <img
-                                src="/components/logo/credit-card.png"
+                                src="./components/logo/credit-card.png"
                                 alt=""
                             />
                         </li>
                         <li>
                             <img
-                                src="/components/logo/credit-cards.png"
+                                src="./components/logo/credit-cards.png"
                                 alt=""
                             />
                         </li>
                         <li>
                             <img
-                                src="/components/logo/credit-card (1).png"
+                                src="./components/logo/credit-card (1).png"
                                 alt=""
                             />
                         </li>
                         <li>
                             <img
-                                src="/components/logo/credit-card (2).png"
+                                src="./components/logo/credit-card (2).png"
                                 alt=""
                             />
                         </li>
                         <li>
                             <img
-                                src="/components/logo/cash-on-delivery.png"
+                                src="./components/logo/cash-on-delivery.png"
                                 alt=""
                             />
                         </li>
                         <li>
-                            <img src="/components/logo/banking.png" alt="" />
+                            <img src="./components/logo/banking.png" alt="" />
                         </li>
                     </ul>
                 </div>
@@ -239,7 +239,7 @@ function footer() {
                 <span
                     >Made for Bharat<img
                         class="dancing-heart"
-                        src="/components/logo/icons8-heart.gif"
+                        src="./components/logo/icons8-heart.gif"
                 /></span>
             </div>
         </div>`;
